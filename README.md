@@ -27,8 +27,8 @@ A 4-bit Arithmetic Logic Unit supporting **16 operations** with status flags
 
 | File | Description |
 |------|-------------|
-| `RTL_ALU.sv` | Main ALU Design |
-| `RTL_ALU_TB.sv` | Testbench for Simulation |
+| [`RTL_ALU.sv`](https://github.com/Rahulmahala25/4-bit-ALU/blob/main/16%20Operation%20ALU/RTL_ALU.sv)| Main ALU Design |
+| [`RTL_ALU_TB.sv`](https://github.com/Rahulmahala25/4-bit-ALU/blob/main/16%20Operation%20ALU/RTL_ALU_TB.sv) | Testbench for Simulation |
 
 ---
 
